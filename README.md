@@ -20,7 +20,8 @@ yapılabilir.
 4. [Kullanım](#kullanım)  
 5. [Dizin Yapısı](#dizin-yapısı)  
 6. [Teknik Bilgiler](#teknik-bilgiler)  
-7. [İletişim](#iletişim)  
+7. [İletişim](#iletişim)
+8. Youtube Linki(#link)  
 
 ---
 
@@ -261,6 +262,10 @@ Bu projeyle ilgili sorunlarınız veya katkılarınız için lütfen GitHub üze
 
 Eğer doğrudan irtibat kurmak isterseniz:  
 **Email:** ertugrulcpn@gmail.com 
+
+## Youtube Linki
+https://youtu.be/FGmn7-IyjzU
+
 
 > **Teşekkürler ve İyi Çalışmalar!**
 
