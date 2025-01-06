@@ -19,9 +19,9 @@ yapılabilir.
 3. [Kurulum](#kurulum)  
 4. [Kullanım](#kullanım)  
 5. [Dizin Yapısı](#dizin-yapısı)  
-6. [Teknik Bilgiler](#teknik-bilgiler)  
-7. [İletişim](#iletişim)
-8. Youtube Linki(#link)  
+6. [Teknik Bilgiler](#teknik-bilgiler)
+8. [İletişim](#iletişim)
+9. Youtube Linki(#YouTube-link)  
 
 ---
 
@@ -60,9 +60,9 @@ Aşağıdaki ekran görüntüleri, proje dizininizde veya ayrı bir “screensho
 ![Giriş Ekranı 2](https://github.com/user-attachments/assets/0bcb1aea-cbcf-4032-9cdf-de7964de4a7f)
 
 2. **Ana Menü**  
-   ![Ana Menü](https://github.com/user-attachments/assets/216ca7e5-33e9-4247-b0d2-f59783930ece)
+![Ana Menü](https://github.com/user-attachments/assets/216ca7e5-33e9-4247-b0d2-f59783930ece)
    
-   ![Ana Menü 2](https://github.com/user-attachments/assets/ed81050b-9f19-4943-8b78-403ccebffb4c)
+![Ana Menü 2](https://github.com/user-attachments/assets/ed81050b-9f19-4943-8b78-403ccebffb4c)
    
    A.**Ana Menü Fonksiyon Ekranları**
    --> **Ürün Ekleme Ekranı**
@@ -71,11 +71,11 @@ Aşağıdaki ekran görüntüleri, proje dizininizde veya ayrı bir “screensho
 
 
   --> **Ürün Listeleme Ekranı**
-  ![Ürün Listeleme Ekranı ](https://github.com/user-attachments/assets/df444646-9d9d-44c5-8081-3169cb96276d)
+![Ürün Listeleme Ekranı ](https://github.com/user-attachments/assets/df444646-9d9d-44c5-8081-3169cb96276d)
 
 
    --> **Ürün Güncelleme Ekranı**
-   ![Ürün Güncelleme](https://github.com/user-attachments/assets/987ea627-33d4-403a-aa4a-372d255641c6)
+![Ürün Güncelleme](https://github.com/user-attachments/assets/987ea627-33d4-403a-aa4a-372d255641c6)
 
 ![Ürün Gülcelleme 2](https://github.com/user-attachments/assets/b5c53f3d-7846-4341-8b6c-52e83e238010)
 
@@ -86,14 +86,14 @@ Aşağıdaki ekran görüntüleri, proje dizininizde veya ayrı bir “screensho
 
    --> **Ürün Silme Ekranı**
 
-   ![Ürün Silme Ekranı ](https://github.com/user-attachments/assets/404f01e1-1e0b-4fc7-af5b-a4e2dbb67f9b)
+ ![Ürün Silme Ekranı ](https://github.com/user-attachments/assets/404f01e1-1e0b-4fc7-af5b-a4e2dbb67f9b)
 
 ![Ürün Silme Ekranı ](https://github.com/user-attachments/assets/25e817c2-a75d-4a7b-af15-ab907d0d86d0)
 
 
    --> **Rapor Menüsü Ekranları**
 
-   ![Rapor Menüsü ](https://github.com/user-attachments/assets/048e565e-ed47-48ce-81b5-050bdf25c432)
+  ![Rapor Menüsü ](https://github.com/user-attachments/assets/048e565e-ed47-48ce-81b5-050bdf25c432)
 
 ![Azalan Ürünler Ekranı ](https://github.com/user-attachments/assets/024341a7-be9f-4580-8009-1d0bdd60965d)
 
