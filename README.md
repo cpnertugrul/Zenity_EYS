@@ -57,12 +57,11 @@ yapılabilir.
 <img src="https://github.com/user-attachments/assets/fc4b5551-17ea-49b2-8db0-321268dec5bb" width="300" alt="Giriş Ekranı 1" />
 <img src="https://github.com/user-attachments/assets/0bcb1aea-cbcf-4032-9cdf-de7964de4a7f" width="300" alt="Giriş Ekranı 2" />
 
-![Giriş Ekranı 2](https://github.com/user-attachments/assets/0bcb1aea-cbcf-4032-9cdf-de7964de4a7f)
-
-2. **Ana Menü**  
-![Ana Menü](https://github.com/user-attachments/assets/216ca7e5-33e9-4247-b0d2-f59783930ece)
+2. **Ana Menü**
+<img src="https://github.com/user-attachments/assets/216ca7e5-33e9-4247-b0d2-f59783930ece" width="300" alt="Ana Menü 1" />
+<img src="https://github.com/user-attachments/assets/ed81050b-9f19-4943-8b78-403ccebffb4c" width="300" alt="Ana Menü 2" />
    
-![Ana Menü 2](https://github.com/user-attachments/assets/ed81050b-9f19-4943-8b78-403ccebffb4c)
+
    
    A.**Ana Menü Fonksiyon Ekranları**
    --> **Ürün Ekleme Ekranı**
