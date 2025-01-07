@@ -77,67 +77,39 @@ yapılabilir.
 
    --> **Ürün Güncelleme Ekranı**
 ![Ürün Güncelleme](https://github.com/user-attachments/assets/987ea627-33d4-403a-aa4a-372d255641c6)
-
 ![Ürün Gülcelleme 2](https://github.com/user-attachments/assets/b5c53f3d-7846-4341-8b6c-52e83e238010)
-
 ![Geri Dönüt Ekranı](https://github.com/user-attachments/assets/e9e41012-f9de-45f8-9144-20364b708351)
-
 ![Geri Dönüt Ekranı 2](https://github.com/user-attachments/assets/30cb2467-4b4a-43f6-8116-5504527b8ca5)
 
 
    --> **Ürün Silme Ekranı**
-
- ![Ürün Silme Ekranı ](https://github.com/user-attachments/assets/404f01e1-1e0b-4fc7-af5b-a4e2dbb67f9b)
-
+![Ürün Silme Ekranı ](https://github.com/user-attachments/assets/404f01e1-1e0b-4fc7-af5b-a4e2dbb67f9b)
 ![Ürün Silme Ekranı ](https://github.com/user-attachments/assets/25e817c2-a75d-4a7b-af15-ab907d0d86d0)
 
 
    --> **Rapor Menüsü Ekranları**
-
-  ![Rapor Menüsü ](https://github.com/user-attachments/assets/048e565e-ed47-48ce-81b5-050bdf25c432)
-
+![Rapor Menüsü ](https://github.com/user-attachments/assets/048e565e-ed47-48ce-81b5-050bdf25c432)
 ![Azalan Ürünler Ekranı ](https://github.com/user-attachments/assets/024341a7-be9f-4580-8009-1d0bdd60965d)
-
 ![Rapor Menüsü 2 ](https://github.com/user-attachments/assets/6cdc1829-781e-4a64-ae0b-58c6109bd86b)
-
 ![Yüksek Stoklu Ürünler Ekranı](https://github.com/user-attachments/assets/e445d10d-1232-4595-b257-6069293db2bd)
-
 ![Yüksek Stoklu Ürünler Listeleme Ekranı](https://github.com/user-attachments/assets/b3f61a72-ea14-4d99-ab92-78b09e535bcc)
-
-
 
    --> **Kullanıcı Yönetim Ekranları**
 
-   ![Kullanıcı Yönetimi Ekranı](https://github.com/user-attachments/assets/cdbc250c-a2d8-413c-b1d2-71eb60784e6d)
-
-   
+![Kullanıcı Yönetimi Ekranı](https://github.com/user-attachments/assets/cdbc250c-a2d8-413c-b1d2-71eb60784e6d)
 ![Kullanıcı Yönetim Ekranı 2](https://github.com/user-attachments/assets/cbcc5041-9b07-4ee7-abd1-a466c5fe0022)
-
 ![Yeni Kullanıcı Ekranı ](https://github.com/user-attachments/assets/8403c16f-13eb-4366-b9f7-0322c11d91cb)
-
-
 ![Kullanıcı Listesi Ekranı ](https://github.com/user-attachments/assets/1d96aadb-3039-41ad-932a-f5ebefee97a9)
-
-
 ![Kilitli Hesap Açma Ekranı](https://github.com/user-attachments/assets/d1c58b45-8256-4dcf-8611-0b882027dde8)
-
-
 ![Kullanıcı Güncelleme Ekranı ](https://github.com/user-attachments/assets/482d2721-b056-41a3-831f-bf30076250c8)
-
 ![Kullanıcı Güncelleme Ekranı 2](https://github.com/user-attachments/assets/b5a93bc5-0808-4678-bfaa-39e2fb930da1)
-
 ![Kullanıcı Silme Ekranı](https://github.com/user-attachments/assets/e6752109-a063-4a34-9e3e-b04693124454)
 
-
    --> **Program Yönetim Ekranları**
-
 ![Program Yönetim Ekranı ](https://github.com/user-attachments/assets/dc6d7116-acee-4863-81c1-87e363667d28)
-
 ![EProgram Yönetim Ekranı 2](https://github.com/user-attachments/assets/1b062525-4f44-4d1e-b9d3-5deaabdd3061)
-
-   ![Hata Kayıtları](https://github.com/user-attachments/assets/f8c137f2-b727-45b4-8220-aefe4eab2901)
-
-   ![Dosya Boyutu Ekranı](https://github.com/user-attachments/assets/d7324bef-c5b0-4980-9a71-4abde1ca37bb)
+![Hata Kayıtları](https://github.com/user-attachments/assets/f8c137f2-b727-45b4-8220-aefe4eab2901)
+![Dosya Boyutu Ekranı](https://github.com/user-attachments/assets/d7324bef-c5b0-4980-9a71-4abde1ca37bb)
 
 
 
