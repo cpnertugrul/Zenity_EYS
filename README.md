@@ -71,7 +71,8 @@ yapılabilir.
 
 
   --> **Ürün Listeleme Ekranı**
-![Ürün Listeleme Ekranı ](https://github.com/user-attachments/assets/df444646-9d9d-44c5-8081-3169cb96276d)
+<img src="![Ürün Listeleme Ekranı ](https://github.com/user-attachments/assets/df444646-9d9d-44c5-8081-3169cb96276d)
+" alt="Ürün Listeleme Ekranı" width="300" />
 
 
    --> **Ürün Güncelleme Ekranı**
