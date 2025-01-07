@@ -15,9 +15,9 @@ yapılabilir.
 ## İçindekiler
 
 1. [Özellikler](#özellikler)  
-2. [Ekran Görüntüleri](#ekran-görüntüleri)  
-3. [Kurulum](#kurulum)  
-4. [Kullanım](#kullanım)  
+2. [Kurulum](#kurulum)  
+3. [Kullanım](#kullanım)
+4. [Ekran Görüntüleri](#ekran-görüntüleri)  
 5. [Dizin Yapısı](#dizin-yapısı)  
 6. [Teknik Bilgiler](#teknik-bilgiler)
 7. [İletişim](#iletişim)
