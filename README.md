@@ -106,6 +106,7 @@ yapılabilir.
 ![Kullanıcı Silme Ekranı](https://github.com/user-attachments/assets/e6752109-a063-4a34-9e3e-b04693124454)
 
    --> **Program Yönetim Ekranları**
+   
 ![Program Yönetim Ekranı ](https://github.com/user-attachments/assets/dc6d7116-acee-4863-81c1-87e363667d28)
 ![EProgram Yönetim Ekranı 2](https://github.com/user-attachments/assets/1b062525-4f44-4d1e-b9d3-5deaabdd3061)
 ![Hata Kayıtları](https://github.com/user-attachments/assets/f8c137f2-b727-45b4-8220-aefe4eab2901)
@@ -114,15 +115,8 @@ yapılabilir.
 
 
    --> **Çıkış Ekranı**
-
-
-![Çıkış Ekranı ](https://github.com/user-attachments/assets/8fda39b0-80b7-458e-aa95-54fbd5f6c0cc)
-
-
    
-![Çıkış Ekranı 2](https://github.com/user-attachments/assets/c1b6be78-d004-47f7-8bf3-65d44b24f678)
-
-
+![Çıkış Ekranı ](https://github.com/user-attachments/assets/8fda39b0-80b7-458e-aa95-54fbd5f6c0cc)
 
 6.**Loading Menüleri**
 Bu ekran Ürün Ekleme neticisinde gösterilen loding ekranıdır.Her ana menü seçeneği için ilgili menü hakkında bilgiler içeren loading ekranları projemizde mevcut olup kullanıcının ne işlem yaptığı hakkında bilgilendirme yapmaktadır.
