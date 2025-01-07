@@ -49,6 +49,68 @@ yapılabilir.
 
 ---
 
+
+
+## Kurulum
+
+1. **Zenity** kurulu olduğundan emin olun. Örneğin, Ubuntu/Debian tabanlı sistemlerde:
+   ```bash
+   sudo apt-get update
+   sudo apt-get install zenity
+   ```
+2. Projeyi GitHub’dan klonlayın (veya zip’ten çıkarın):
+   ```bash
+   git clone https://github.com/cpnertugrul/Zenity_EYS.git
+   ```
+3. Dizine girin:
+   ```bash
+   cd Zenity_EYS
+   ```
+4. Script’e **çalıştırma izni** verin:
+   ```bash
+   chmod +x envanter.sh
+   ```
+
+---
+
+## Kullanım
+
+1. Terminal üzerinden projenin bulunduğu dizine geçiş yapın:
+   ```bash
+   cd Zenity_EYS
+   ```
+2. **Bash betiğini** çalıştırın:
+   ```bash
+   ./Zenity_Uygulama.sh
+   ```
+3. Karşınıza **Giriş** ekranı çıkacaktır:
+
+   - Varsayılan yönetici bilgileri:
+     - **Kullanıcı Adı:** `admin`
+     - **Parola:** `12345`  
+   - Giriş yaptıktan sonra **Ana Menü** karşınıza gelir:
+     1. **Ürün Ekle**  
+     2. **Ürün Listele**  
+     3. **Ürün Güncelle**  
+     4. **Ürün Sil**  
+     5. **Rapor Al**  
+     6. **Kullanıcı Yönetimi**  
+     7. **Program Yönetimi**  
+     8. **Çıkış**  
+
+4. **Kullanıcı Rolü**:  
+   - **Admin**: Ürün/Kullanıcı ekleme, güncelleme, silme, rapor ve program yönetimi.  
+   - **User**: Ürünleri listeleyip rapor alabilir. Diğer menü adımlarına erişince uyarı alır.  
+
+5. **Veri Dosyaları** (`csv` formatında)  
+   - `depo.csv`: Ürün bilgileri  
+   - `kullanici.csv`: Kullanıcı bilgileri  
+   - `log.csv`: Sistem hata ve bilgi kayıtları  
+
+6. **Yedek Alma**  
+   - Program yönetimi menüsünden **Diske Yedekle** dediğinizde `depo.csv` ve `kullanici.csv` dosyaları, `yedek` klasörüne tarih-saat etiketli dosyalar olarak kopyalanır.
+
+---
 ## Ekran Görüntüleri
 
 
@@ -122,68 +184,6 @@ Bu ekran Ürün Ekleme neticisinde gösterilen loding ekranıdır.Her ana menü 
    
 
 ---
-
-## Kurulum
-
-1. **Zenity** kurulu olduğundan emin olun. Örneğin, Ubuntu/Debian tabanlı sistemlerde:
-   ```bash
-   sudo apt-get update
-   sudo apt-get install zenity
-   ```
-2. Projeyi GitHub’dan klonlayın (veya zip’ten çıkarın):
-   ```bash
-   git clone https://github.com/cpnertugrul/Zenity_EYS.git
-   ```
-3. Dizine girin:
-   ```bash
-   cd Zenity_EYS
-   ```
-4. Script’e **çalıştırma izni** verin:
-   ```bash
-   chmod +x envanter.sh
-   ```
-
----
-
-## Kullanım
-
-1. Terminal üzerinden projenin bulunduğu dizine geçiş yapın:
-   ```bash
-   cd Zenity_EYS
-   ```
-2. **Bash betiğini** çalıştırın:
-   ```bash
-   ./Zenity_Uygulama.sh
-   ```
-3. Karşınıza **Giriş** ekranı çıkacaktır:
-
-   - Varsayılan yönetici bilgileri:
-     - **Kullanıcı Adı:** `admin`
-     - **Parola:** `12345`  
-   - Giriş yaptıktan sonra **Ana Menü** karşınıza gelir:
-     1. **Ürün Ekle**  
-     2. **Ürün Listele**  
-     3. **Ürün Güncelle**  
-     4. **Ürün Sil**  
-     5. **Rapor Al**  
-     6. **Kullanıcı Yönetimi**  
-     7. **Program Yönetimi**  
-     8. **Çıkış**  
-
-4. **Kullanıcı Rolü**:  
-   - **Admin**: Ürün/Kullanıcı ekleme, güncelleme, silme, rapor ve program yönetimi.  
-   - **User**: Ürünleri listeleyip rapor alabilir. Diğer menü adımlarına erişince uyarı alır.  
-
-5. **Veri Dosyaları** (`csv` formatında)  
-   - `depo.csv`: Ürün bilgileri  
-   - `kullanici.csv`: Kullanıcı bilgileri  
-   - `log.csv`: Sistem hata ve bilgi kayıtları  
-
-6. **Yedek Alma**  
-   - Program yönetimi menüsünden **Diske Yedekle** dediğinizde `depo.csv` ve `kullanici.csv` dosyaları, `yedek` klasörüne tarih-saat etiketli dosyalar olarak kopyalanır.
-
----
-
 ## Dizin Yapısı
 
 Proje klasörünün olası yapısı:
