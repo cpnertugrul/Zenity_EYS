@@ -50,12 +50,12 @@ yapılabilir.
 ---
 
 ## Ekran Görüntüleri
-<img src="https://github.com/user-attachments/assets/fc4b5551-17ea-49b2-8db0-321268dec5bb" width="300" alt="Giriş Ekranı 1" />
 
 
 1. **Giriş Ekranı**  
    
-![Giriş Ekranı 1](https://github.com/user-attachments/assets/fc4b5551-17ea-49b2-8db0-321268dec5bb)
+<img src="https://github.com/user-attachments/assets/fc4b5551-17ea-49b2-8db0-321268dec5bb" width="300" alt="Giriş Ekranı 1" />
+
 
 ![Giriş Ekranı 2](https://github.com/user-attachments/assets/0bcb1aea-cbcf-4032-9cdf-de7964de4a7f)
 
