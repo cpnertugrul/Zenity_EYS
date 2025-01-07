@@ -20,8 +20,8 @@ yapılabilir.
 4. [Kullanım](#kullanım)  
 5. [Dizin Yapısı](#dizin-yapısı)  
 6. [Teknik Bilgiler](#teknik-bilgiler)
-8. [İletişim](#iletişim)
-9. Youtube Linki(#YouTube-link)  
+7. [İletişim](#iletişim)
+8. Youtube Linki(#YouTube-link)  
 
 ---
 
@@ -50,8 +50,8 @@ yapılabilir.
 ---
 
 ## Ekran Görüntüleri
+<img src="https://github.com/user-attachments/assets/fc4b5551-17ea-49b2-8db0-321268dec5bb" width="300" alt="Giriş Ekranı 1" />
 
-Aşağıdaki ekran görüntüleri, proje dizininizde veya ayrı bir “screenshots” klasöründe yer alabilir. README dosyasında bu görselleri eklemek isterseniz, örnek olarak şu şekilde referans verebilirsiniz:
 
 1. **Giriş Ekranı**  
    
