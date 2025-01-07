@@ -21,7 +21,7 @@ yapılabilir.
 5. [Dizin Yapısı](#dizin-yapısı)  
 6. [Teknik Bilgiler](#teknik-bilgiler)
 7. [İletişim](#iletişim)
-8. Youtube Linki(#YouTube-link)  
+8. [Youtube Linki](#YouTube-link)  
 
 ---
 
